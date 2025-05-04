@@ -1,0 +1,9 @@
+.scroll-mt-20 { scroll-margin-top: 5rem; }
+
+@import "tailwindcss";
+
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+  }
